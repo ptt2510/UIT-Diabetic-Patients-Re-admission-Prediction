@@ -9,7 +9,8 @@ Each team has maximum 4 members.
 Just name your team to "TeamX" where X is your team number. DO NOT try to use ridiculous names.
 Provide information about your team (team number, list of members) in the Notebook.
 -
-Files: train_diabetic_data.csv - the training set; 
+Files:               
+train_diabetic_data.csv - the training set;
 test_diabetic_data.csv - the test set; 
 sample_solution.csv - a sample submission file in the correct format; 
 IDs_mapping.csv - supplemental information about the data; 
